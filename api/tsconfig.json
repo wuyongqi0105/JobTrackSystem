@@ -1,0 +1,80 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "id": 1,
+      "sno": "100101",
+      "sname": "AMG亚洲音乐集团",
+      "sex": "私企",
+      "native": "山西太原",
+      "email": "456567897",
+      "nature": "影视",
+      "isGetJob": "是"
+    },{
+      "id": 2,
+      "sno": "100101",
+      "sname": "华谊",
+      "sex": "私企",
+      "native": "山西太原",
+      "email": "456567897",
+      "nature": "影视",
+      "isGetJob": "是"
+    },{
+      "id": 3,
+      "sno": "100101",
+      "sname": "泰洋川禾",
+      "sex": "私企",
+      "native": "山西太原",
+      "email": "456567897",
+      "nature": "影视",
+      "isGetJob": "是"
+    },{
+      "id": 4,
+      "sno": "100101",
+      "sname": "丝芭传媒",
+      "sex": "私企",
+      "native": "山西太原",
+      "email": "456567897",
+      "nature": "影视",
+      "isGetJob": "是"
+    }, {
+      "id": 5,
+      "sno": "100101",
+      "sname": "AMG亚洲音乐集团",
+      "sex": "私企",
+      "native": "山西太原",
+      "email": "456567897",
+      "nature": "影视",
+      "isGetJob": "是"
+    },{
+      "id": 6,
+      "sno": "100101",
+      "sname": "华谊",
+      "sex": "私企",
+      "native": "山西太原",
+      "email": "456567897",
+      "nature": "影视",
+      "isGetJob": "是"
+    },{
+      "id": 7,
+      "sno": "100101",
+      "sname": "泰洋川禾",
+      "sex": "私企",
+      "native": "山西太原",
+      "email": "456567897",
+      "nature": "影视",
+      "isGetJob": "是"
+    },{
+      "id": 8,
+      "sno": "100101",
+      "sname": "丝芭传媒",
+      "sex": "私企",
+      "native": "山西太原",
+      "email": "456567897",
+      "nature": "影视",
+      "isGetJob": "是"
+    }
+  ]
+}

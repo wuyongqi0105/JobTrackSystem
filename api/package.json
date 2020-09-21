@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "postion":"前端",
+      "num": "5",
+      "salary": "3000",
+      "edu": "学士学位",
+      "remark": "其他要求",
+      "isGetJob": "是"
+    },{
+      "postion":"前端",
+      "num": "5",
+      "salary": "3000",
+      "edu": "学士学位",
+      "remark": "其他要求",
+      "isGetJob": "是"
+    },{
+      "postion":"前端",
+      "num": "5",
+      "salary": "3000",
+      "edu": "学士学位",
+      "remark": "其他要求",
+      "isGetJob": "是"
+    },{
+      "postion":"前端",
+      "num": "5",
+      "salary": "3000",
+      "edu": "学士学位",
+      "remark": "其他要求",
+      "isGetJob": "是"
+    }, {
+    "postion":"前端",
+    "num": "5",
+    "salary": "3000",
+    "edu": "学士学位",
+    "remark": "其他要求",
+    "isGetJob": "是"
+    },{
+      "postion":"前端",
+      "num": "5",
+      "salary": "3000",
+      "edu": "学士学位",
+      "remark": "其他要求",
+      "isGetJob": "是"
+    },{
+      "postion":"前端",
+      "num": "5",
+      "salary": "3000",
+      "edu": "学士学位",
+      "remark": "其他要求",
+      "isGetJob": "是"
+    },{
+      "postion":"前端",
+      "num": "5",
+      "salary": "3000",
+      "edu": "学士学位",
+      "remark": "其他要求",
+      "isGetJob": "是"
+    },{
+      "postion":"前端",
+      "num": "5",
+      "salary": "3000",
+      "edu": "学士学位",
+      "remark": "其他要求",
+      "isGetJob": "是"
+    },{
+      "postion":"前端",
+      "num": "5",
+      "salary": "3000",
+      "edu": "学士学位",
+      "remark": "其他要求",
+      "isGetJob": "是"
+    }
+  ]
+}
